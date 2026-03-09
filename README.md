@@ -143,25 +143,40 @@ customer_day_grid = (
 
 <!-- Insert: barplot emails_received by age_group -->
 
+![Emails received by age group](1.png)
+
 ### Purchase days by age group
 
 <!-- Insert: barplot days_with_purchase by age_group -->
+
+![Purchase days by age group](2.png)
+
 
 ### Total spend by age group
 
 <!-- Insert: barplot total_spent by age_group -->
 
+![Total spend by age group](3.png)
+
 ### Emails sent vs. purchase days over time
 
 <!-- Insert: dual lineplot emails_sent and days_with_purchase over date -->
+
+![Emails sent vs. purchase days over time](4.png)
 
 ### Emails sent vs. total spend (scatter)
 
 <!-- Insert: scatterplot emails_sent vs total_spent -->
 
+![Emails sent vs. total spend (scatter)](5.png)
+
+
 ### Weekend vs. weekday purchase rate
 
 <!-- Insert: barplot purchase_rate by is_weekend -->
+
+![Weekend vs. weekday purchase rate](6.png)
+
 
 ### Key EDA findings
 
