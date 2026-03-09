@@ -165,7 +165,7 @@ customer_day_grid = (
 
 ### Weekend vs. weekday purchase rate
 
-![Weekend vs weekday purchase rate](images/purchase_rate_weekend.png)
+![Weekend vs weekday purchase rate](images/weekendweekdayrate.png)
 
 ### Key EDA findings
 
