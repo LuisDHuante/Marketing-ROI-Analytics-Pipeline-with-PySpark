@@ -205,7 +205,7 @@ test_data    = scaler_model.transform(test_data_raw)
 
 ### Coefficient plot — Linear Regression
 
-![Linear regression coefficients](images/linear_regression_coefficients.png)
+![Linear regression coefficients](images/coefficientplot.png)
 
 ---
 
