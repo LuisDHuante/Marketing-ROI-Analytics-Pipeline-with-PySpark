@@ -229,8 +229,6 @@ An AUC of 0.774 indicates reasonable discriminative power for predicting whether
 
 `is_new_release` is the dominant predictor in both models by a wide margin, confirming that content drives attendance far more than email exposure. Email features (`received_email_last_3days`, `received_email_last_30days_flag`) rank last in both models with near-zero coefficients, while `is_weekend` and historical spending behavior show moderate but consistent effects.
 
-For full interpretation see [Key Findings & Recommendations](#key-findings--recommendations).
-
 ---
 
 ## Key Findings & Recommendations
