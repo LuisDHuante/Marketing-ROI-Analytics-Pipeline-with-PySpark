@@ -141,42 +141,27 @@ customer_day_grid = (
 
 ### Emails received by age group
 
-<!-- Insert: barplot emails_received by age_group -->
-
-![Emails received by age group](1.png)
+![Emails received by age group](images/emails_by_age.png)
 
 ### Purchase days by age group
 
-<!-- Insert: barplot days_with_purchase by age_group -->
-
-![Purchase days by age group](2.png)
-
+![Purchase days by age group](images/purchase_days_by_age.png)
 
 ### Total spend by age group
 
-<!-- Insert: barplot total_spent by age_group -->
-
-![Total spend by age group](3.png)
+![Total spend by age group](images/total_spend_by_age.png)
 
 ### Emails sent vs. purchase days over time
 
-<!-- Insert: dual lineplot emails_sent and days_with_purchase over date -->
-
-![Emails sent vs. purchase days over time](4.png)
+![Emails sent vs purchase days over time](images/emails_vs_purchases_over_time.png)
 
 ### Emails sent vs. total spend (scatter)
 
-<!-- Insert: scatterplot emails_sent vs total_spent -->
-
-![Emails sent vs. total spend (scatter)](5.png)
-
+![Emails sent vs total spend](images/emails_vs_spend_scatter.png)
 
 ### Weekend vs. weekday purchase rate
 
-<!-- Insert: barplot purchase_rate by is_weekend -->
-
-![Weekend vs. weekday purchase rate](6.png)
-
+![Weekend vs weekday purchase rate](images/purchase_rate_weekend.png)
 
 ### Key EDA findings
 
@@ -216,7 +201,7 @@ test_data    = scaler_model.transform(test_data_raw)
 
 ### Coefficient plot — Linear Regression
 
-<!-- Insert: horizontal barplot of standardized coefficients from lin_model.coefficients -->
+![Linear regression coefficients](images/linear_regression_coefficients.png)
 
 ---
 
