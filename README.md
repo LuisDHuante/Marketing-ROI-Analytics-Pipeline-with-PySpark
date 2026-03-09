@@ -161,7 +161,7 @@ customer_day_grid = (
 
 ### Weekend vs. weekday purchase rate
 
-![Weekend vs weekday purchase rate](images/purchase_rate_weekend.png)
+![Weekend vs weekday purchase rate](images/weekendweekdayrate.png)
 
 ### Key EDA findings
 
@@ -201,7 +201,7 @@ test_data    = scaler_model.transform(test_data_raw)
 
 ### Coefficient plot — Linear Regression
 
-![Linear regression coefficients](images/linear_regression_coefficients.png)
+![Linear regression coefficients](images/coefficientplot.png)
 
 ---
 
