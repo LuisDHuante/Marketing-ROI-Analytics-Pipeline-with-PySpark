@@ -212,6 +212,7 @@ test_data    = scaler_model.transform(test_data_raw)
 ## Results
 
 **Logistic Regression** - AUC: 0.774
+
 **Linear Regression** - R2: 0.294 | RMSE: 10.30
 
 An AUC of 0.774 indicates reasonable discriminative power for predicting whether a customer will make a purchase on a given day. The linear model explains ~29% of the variance in daily spend, with an RMSE of 10.30 - moderate performance expected given the inherent noise in individual daily spending behavior.
