@@ -155,13 +155,17 @@ customer_day_grid = (
 
 ![Emails sent vs purchase days over time](images/emails_vs_purchases_over_time.png)
 
+### Emails sent vs. purchase days over time (time series)
+
+![Emails enviados vs días con compra a lo largo del tiempo](images/dayspurchasesemailssent.png)
+
 ### Emails sent vs. total spend (scatter)
 
 ![Emails sent vs total spend](images/emails_vs_spend_scatter.png)
 
 ### Weekend vs. weekday purchase rate
 
-![Weekend vs weekday purchase rate](images/weekendweekdayrate.png)
+![Weekend vs weekday purchase rate](images/purchase_rate_weekend.png)
 
 ### Key EDA findings
 
@@ -201,7 +205,7 @@ test_data    = scaler_model.transform(test_data_raw)
 
 ### Coefficient plot — Linear Regression
 
-![Linear regression coefficients](images/coefficientplot.png)
+![Linear regression coefficients](images/linear_regression_coefficients.png)
 
 ---
 
